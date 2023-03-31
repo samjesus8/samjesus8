@@ -34,8 +34,7 @@
 
 # Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samjesus8&theme=dark&background=000000)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samjesus8&theme=tokyonight)
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samjesus8&theme=chartreuse-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samjesus8)](https://github.com/samjesus8/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samjesus8&theme=dark&background=000000)](https://git.io/streak-stats)
