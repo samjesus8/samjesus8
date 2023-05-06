@@ -16,7 +16,7 @@
 
 # About me:
 
-- Currently a 2nd Year studying Computer Science BSc
+- 3rd Year Computer Science BSc
 - Owner of the Cooler Discord Bot and the Dokkan Passive Generator
 - I make YouTube videos on Gaming, Programming and other Random Stuff
 
