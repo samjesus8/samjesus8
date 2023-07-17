@@ -10,17 +10,19 @@
   </a>
   <a href="https://twitter.com/samueljesuthas">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> 
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=samjesus8&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 <!-- About Me -->
 ## 🕵️ About Me
 
-- Huge Fate fan!!!
-- 3rd Year studying Computer Science BSc
-- Owner of the Cooler Discord Bot and the Dokkan Passive Generator
-- I make YouTube videos on Gaming, Programming, and other Random Stuff
+- ```Huge Fate fan!!!```
+- ```YouTuber & Owner of the Cooler Discord Bot```
+- ```I share coding knowledge on my channel as well as make videos on DragonBall gacha games```
 
 <!-- Languages/Tools -->
 ## 🛠️ Languages/Tools I Use
@@ -32,7 +34,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" title="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40" height="40"/>
 </div>
 
