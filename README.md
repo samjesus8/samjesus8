@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Header Image" width="500" height="300"/>
+  <img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" alt="Header Image" width="500" height="300"/>
 </div>
 
 <!-- Badges -->
@@ -20,12 +20,17 @@
 <!-- About Me -->
 ## 🕵️ About Me
 
-- ```Huge Fate fan!!!```
-- ```YouTuber & Owner of the Cooler Discord Bot```
-- ```I share coding knowledge on my channel as well as make videos on DragonBall gacha games```
+```csharp
+internal sealed class AboutMe()
+{
+  Education = "Computer Science BSc",
+  Socials = new string{"youtube.com/SamuelJesuthas"},
+  Description = "I make YouTube videos on Discord Bots and DragonBall-related topics"
+}
+```
 
 <!-- Languages/Tools -->
-## 🛠️ Languages/Tools I Use
+## 🛠️ Most Used Languages/Tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/>
