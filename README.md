@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" alt="Header Image" width="500" height="300"/>
+  <img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" alt="Header Image" width="500" height="300" />
 </div>
 
 <!-- Badges -->
@@ -13,6 +13,7 @@
   </a> 
 </div>
 
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=samjesus8&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
@@ -21,11 +22,18 @@
 ## 🕵️ About Me
 
 ```csharp
-internal sealed class AboutMe()
-{
-  Education = "Computer Science BSc",
-  Socials = new string{"youtube.com/SamuelJesuthas"},
-  Description = "I make YouTube videos on Discord Bots and DragonBall-related topics"
+internal sealed class AboutMe() {
+    public string Education { get; set; }
+    public string[] Socials { get; set; }
+    public string Description { get; set; }
+}
+
+public static void Main(string[] args) {
+    AboutMe myProfile = new AboutMe() {
+        Education = "Computer Science BSc",
+        Socials = {"youtube.com/SamuelJesuthas", "twitter.com/samueljesuthas"},
+        Description = "YouTuber & Developer"
+    }
 }
 ```
 
